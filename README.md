@@ -1,6 +1,8 @@
 # canadian-historical-weather-radar
 Downloads historical GIF images for Canadian weather radar in bulk.
 
+![An example image downloaded using this software](ATL_PRECIPET_SNOW_WEATHEROFFICE_2015-11-15T08-00.gif)
+
 Downloads one image per hour between the specified start and end date times. The user must specify which site or site aggregate to pull from, and
 what image type they are interested in. 
 
